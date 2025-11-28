@@ -3,6 +3,14 @@ This project is the first challenge of the AN2DL course (Advanced Neural Network
 
 ---
 
+## Authors
+
+- Andrea Venezia - [GitHub](https://github.com/veneziaandrea)  
+- Francesco Street - [GitHub](https://github.com/francescostreet)  
+- Francesco Urbano Sereno - [GitHub](https://github.com/FrancescoSereno)
+
+---
+
 ## Links
 
 - [Custom Model v1 Notebook](./notebooks/CustomModelV1.ipynb)  
@@ -125,21 +133,6 @@ All experiments and analyses are documented in the provided notebooks.
 
 ---
 
-## Authors
-
-- Andrea Venezia - [GitHub](https://github.com/veneziaandrea)  
-- Francesco Street - [GitHub](https://github.com/francescostreet)  
-- Francesco Urbano Sereno - [GitHub](https://github.com/FrancescoSereno)  
-
----
-
-## Links
-
-- [Custom Model v1 Notebook](./notebooks/CustomModelV1.ipynb)  
-- [BiLSTM64 v1 Notebook](./notebooks/BiLSTM64V1.ipynb)  
-- [Project Report PDF](./reports/Report.pdf)  
-
----
 
 ## Libraries and Tools
 
